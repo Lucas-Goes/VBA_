@@ -1,4 +1,4 @@
-Sub ExibirPlanilhas()
+Sub OcultarPlanilhas()
 
 Dim xSht As Variant
 
